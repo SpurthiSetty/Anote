@@ -6,3 +6,5 @@
 
 ## About us
 Eden Chung: I'm a Computer Science student at Columbia University interested in the applications of AI and ML. I've done work in full stack development, mainly in Python and JavaScript (+ React). In my free time, I love to ski and play soccer.
+
+Spurthi Setty: I'm studying Software Engineering at Stevens Institute of Technology and primarily interested in the applications of ML in finance and healthcare. I have experience in using ML for financial modeling and have done research in deep learning as well. In my free time, I like reading, doing puzzles, and cooking!
